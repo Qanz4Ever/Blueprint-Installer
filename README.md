@@ -68,7 +68,7 @@ Before running the installer, make sure you have:
 ### One-Line Installer (Recommended)
 
 ```bash
-bash <(curl -fsSL YOUR_RAW_SCRIPT_URL)
+bash <(curl -fsSL [YOUR_RAW_SCRIPT_URL](https://raw.githubusercontent.com/Qanz4Ever/Blueprint-Installer/refs/heads/main/blueprint-installer.sh))
 ```
 
 > ⚠️ Always review scripts before running them as root.
