@@ -30,7 +30,7 @@ The script focuses on:
 
 ## ✨ Key Features
 
-╔══════════════════════════════════╗
+╔════════════════════════════════╗
 
 ║ • One-line installation                   ║
 
@@ -48,7 +48,7 @@ The script focuses on:
 
 ║ • Based on official Blueprint commands    ║
 
-╚═══════════════════════════════════╝
+╚════════════════════════════════╝
 
 ---
 
