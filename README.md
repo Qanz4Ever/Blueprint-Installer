@@ -30,11 +30,11 @@ The script focuses on:
 
 ## ✨ Key Features
 
-╔════════════════════════════════════════════╗
+╔══════════════════════════════════╗
 
 ║ • One-line installation                   ║
 
-║ • Auto-detect Node.js (>= 22)              ║
+║ • Auto-detect Node.js (>= 22)             ║
 
 ║ • Skips already installed components      ║
 
@@ -48,7 +48,7 @@ The script focuses on:
 
 ║ • Based on official Blueprint commands    ║
 
-╚════════════════════════════════════════════╝
+╚═══════════════════════════════════╝
 
 ---
 
