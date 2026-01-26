@@ -142,7 +142,7 @@ chmod +x "$PTERODACTYL_DIRECTORY/blueprint.sh"
 print_done "Permissions applied"
 
 # ================== STEP 9 ==================
-print_step "RUN BLUEPRINT INSTALLER (AUTO YES)"
+print_step "RUN BLUEPRINT INSTALLER"
 yes y | bash "$PTERODACTYL_DIRECTORY/blueprint.sh"
 print_done "Blueprint installed successfully"
 
