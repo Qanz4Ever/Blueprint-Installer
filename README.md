@@ -111,7 +111,7 @@ Some files in this repository are intentionally restricted.
 Files containing the marker:
 
 ```
-Protect By Mfsavana
+Credit Mfsavana © 2026
 ```
 
 are protected under a **secondary license** and are **not open-source**, even though they may be readable.
